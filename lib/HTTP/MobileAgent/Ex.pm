@@ -4,10 +4,10 @@ use strict;
 no strict 'refs';
 no warnings 'redefine';
 use vars qw($VERSION);
-$VERSION = 0.01022;
+$VERSION = 0.02022;
 use HTTP::MobileAgent;
 
-# Extension for HTTP::MobileAgent: on Jun. 29th, 2004 's data
+# Extension for HTTP::MobileAgent: on Jul. 1st, 2004 's data
 
 #######################################################################
 # For All Terminal

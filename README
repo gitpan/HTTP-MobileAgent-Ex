@@ -78,8 +78,8 @@ SYNOPSIS
 
 DESCRIPTION
     HTTP::MobileAgent::Ex extends the HTTP::MobileAgent module.
-    This version 0.01022 is suit for HTTP::MobileAgent 0.22.
-    Version number 0.01 is version of HTTP::MobileAgent::Ex itself,
+    This version 0.02022 is suit for HTTP::MobileAgent 0.22.
+    Version number 0.02 is version of HTTP::MobileAgent::Ex itself,
     and last 022 means suit version for HTTP::MobileAgent (0.22).
 
 FUNCTIONS

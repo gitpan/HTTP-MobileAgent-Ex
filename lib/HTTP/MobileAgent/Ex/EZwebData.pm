@@ -1,20 +1,29 @@
 package HTTP::MobileAgent::Ex::EZwebData;
 
 use strict;
+use vars qw($VERSION);
+$VERSION = 0.02022;
 
 use vars qw($Device2model);
 
 $Device2model ||= {
+  'HI33'=>'W22H',
+  'SA31'=>'W21SA',
+  'KC32'=>'W21K',
+  'SN31'=>'W21S',
   'HI32'=>'W21H',
   'KC31'=>'W11K',
   'HI31'=>'W11H',
   'ST22'=>'INFOBAR',
+  'TS28'=>'A5506T',
   'SA27'=>'A5505SA',
   'TS27'=>'A5504T',
   'SA26'=>'A5503SA',
   'KC25'=>'A5502K',
   'KC24'=>'A5502K',
   'TS26'=>'A5501T',
+  'CA26'=>'A5407CA',
+  'CA25'=>'A5406CA',
   'ST23'=>'A5405SA',
   'SN25'=>'A5404S',
   'CA24'=>'A5403CA',
@@ -28,9 +37,11 @@ $Device2model ||= {
   'HI23'=>'A5303H',
   'CA22'=>'A5302CA',
   'TS23'=>'A5301T',
+  'HI22'=>'A5011HMC',
   'TS21'=>'C5001T',
   'SN26'=>'A1402S',
   'KC23'=>'A1401K',
+  'SA28'=>'A1305SA',
   'TS25'=>'A1304T II',
   'TS25'=>'A1304T',
   'SA25'=>'A1303SA',
