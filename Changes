@@ -5,3 +5,6 @@ Revision history for Perl extension HTTP::MobileAgent::Ex
 
 0.02022  Thu Jul 1 17:11:00 2004 JST
     - Add new model of AU by KDDI
+
+0.03022  Thu Jul 16 18:46:00 2004 JST
+    - Add new model of NTT DoCoMo

@@ -10,6 +10,12 @@ $DisplayMap ||= {
     'depth' => 65536,
     'color' => 1
   },
+  'AH-J3003V' => {
+    'width' => 128,
+    'height' => 130,
+    'depth' => 65536,
+    'color' => 1
+  },
   'AH-K3001V' => {
     'width' => 237,
     'height' => 241,

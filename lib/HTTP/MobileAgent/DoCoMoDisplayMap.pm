@@ -333,6 +333,12 @@ $DisplayMap ||= {
     'depth' => '262144',
     'height' => '240'
   },
+  'SH506IC' => {
+    'width' => '240',
+    'color' => '1',
+    'depth' => '262144',
+    'height' => '252'
+  },
   'N2001' => {
     'width' => '118',
     'color' => '1',
@@ -650,6 +656,12 @@ $DisplayMap ||= {
     'color' => '1',
     'depth' => '65536',
     'height' => '136'
+  },
+  'P506IC' => {
+    'width' => '240',
+    'color' => '1',
+    'depth' => '65536',
+    'height' => '266'
   },
   'F505I' => {
     'width' => '240',
