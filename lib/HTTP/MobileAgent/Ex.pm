@@ -4,7 +4,7 @@ use strict;
 no strict 'refs';
 no warnings 'redefine';
 use vars qw($VERSION);
-$VERSION = 0.03022;
+$VERSION = 0.04022;
 use HTTP::MobileAgent;
 
 # Extension for HTTP::MobileAgent: on Jul. 1st, 2004 's data

@@ -501,6 +501,12 @@ $DisplayMap ||= {
     'depth' => '4096',
     'height' => '112'
   },
+  'F900IC' => {
+    'width' => '230',
+    'color' => '1',
+    'depth' => '262144',
+    'height' => '240'
+  },
   'N505IS' => {
     'width' => '240',
     'color' => '1',
@@ -566,6 +572,12 @@ $DisplayMap ||= {
     'color' => '1',
     'depth' => '262144',
     'height' => '144'
+  },
+  'SO506IC' => {
+    'width' => '240',
+    'color' => '1',
+    'depth' => '262144',
+    'height' => '256'
   },
   'N252I' => {
     'width' => '132',
